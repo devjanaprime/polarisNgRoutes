@@ -1,6 +1,8 @@
 Polaris NG Route Interview
 ===
 
+[lecture video](https://vimeo.com/285014629)
+
 Step 1:
 ---
 
